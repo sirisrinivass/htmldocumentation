@@ -1,0 +1,27 @@
+h1
+{color:black;}
+
+h2
+{
+    color: blue;
+}
+
+h3
+{
+    color: darkblue;
+}
+
+h4
+{
+    color: blueviolet;
+}
+
+mark
+{
+    color:aqua;
+   font-family: 'Times New Roman', Times, serif;
+    background-color: black;  
+}
+
+
+
